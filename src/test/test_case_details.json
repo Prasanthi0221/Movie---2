@@ -1,0 +1,44 @@
+[
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testGetMovies"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testGetNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testGetMovieById"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testPost"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testDbAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testPutNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testPut"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testDbAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testDeleteNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.MovieControllerTests.testAfterDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.movie.SmokeTest.contextLoads"
+    }
+]
